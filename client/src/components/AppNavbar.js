@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import {
   Collapse,
   Navbar,
@@ -8,7 +8,7 @@ import {
   NavItem,
   NavLink,
   Container
-} from "reactstrap";
+} from 'reactstrap';
 
 class AppNavbar extends Component {
   state = {
